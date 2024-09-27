@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Manjunath D Sarwade
-- 👀 I’m interested in Ml ad AI project
-- 🌱 I’m currently learning KLE technological university
-- 💞️ I’m looking to collaborate on Ml projects 
-- 📫 How to reach me manjusarwade4@gmail.com
+
 
 I have worked on various enginnering and diploma projects based on arduino,raspberrypi,iot and ML projects 
 <!---
